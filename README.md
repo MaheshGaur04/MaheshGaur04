@@ -37,12 +37,12 @@ Here are some ideas to get you started:
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project"><img width="278" height="190" src="logo/project.jpg" alt="12_Mini_Projects"></a>
-    <a href="https://github.com/MaheshGaur04/Book_Mart"><img width="278" height="190" src="logo/BookMart.jpg" alt="Book_Mart"></a>
-    <a href="https://github.com/MaheshGaur04/Quiz_Night"><img width="278" height="190" src="logo/quiz.jpg" alt="Quiz_Night"></a>
-    <a href="https://github.com/MaheshGaur04/Calculator"><img width="250" height="190" src="logo/calculator.jpg" alt="2_Calculator"></a>
-    <a href="https://github.com/MaheshGaur04/Forum-and-login-system"><img width="278" height="190" src="logo/Forum.jpg" alt="iForum"></a>
-    <a href="https://github.com/MaheshGaur04/Crud"><img width="278" height="40" src="logo/crud.png" alt="CRUD"></a>
+    <a href="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project"><img width="250" height="170" src="logo/project.jpg" alt="12_Mini_Projects"></a>
+    <a href="https://github.com/MaheshGaur04/Book_Mart"><img width="250" height="170" src="logo/BookMart.jpg" alt="Book_Mart"></a>
+    <a href="https://github.com/MaheshGaur04/Quiz_Night"><img width="250" height="170" src="logo/quiz.jpg" alt="Quiz_Night"></a>
+    <a href="https://github.com/MaheshGaur04/Calculator"><img width="250" height="170" src="logo/calculator.jpg" alt="2_Calculator"></a>
+    <a href="https://github.com/MaheshGaur04/Forum-and-login-system"><img width="250" height="170" src="logo/Forum.jpg" alt="iForum"></a>
+    <a href="https://github.com/MaheshGaur04/Crud"><img width="250" height="45" src="logo/crud.png" alt="CRUD"></a>
   </p>
 
 <a href="https://github.com/MaheshGaur04?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
