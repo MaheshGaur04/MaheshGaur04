@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/MaheshGaur04">
-    <img src="" alt="Mahesh Gaur" /></a>
+    <img src="logo/Mahesh.jpeg" alt="Mahesh Gaur" /></a>
 </p>
+
 
 <p align="center">
   <!-- Typing SVG by MaheshGaur04 - https://github.com/MaheshGaur04/readme-typing-svg -->
