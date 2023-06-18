@@ -32,9 +32,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/MaheshG87173503"><img width="40px" alt="Twitter" title="Twitter" src="logo/icons8-twitter-logo-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
 <br>
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
