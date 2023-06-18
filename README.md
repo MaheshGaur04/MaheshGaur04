@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project"><img width="278" src="logo/project.jpg" alt="12_Mini_Projects"></a>
     <a href="https://github.com/MaheshGaur04/Book_Mart"><img width="278" src="" alt="Book_Mart"></a>
     <a href="https://github.com/MaheshGaur04/Quiz_Night"><img width="278" src="" alt="Quiz_Night"></a>
