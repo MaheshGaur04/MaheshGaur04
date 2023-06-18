@@ -24,8 +24,6 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=450&height=47&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesh-gaur-6b5655276/"><img width="35px" alt="Linkedln" title="Linkedln" src="https://www.iconfinder.com/icons/2142574/circle_colored_gradient_linkedin_media_social_social_media_icon"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
