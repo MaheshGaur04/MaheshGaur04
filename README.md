@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahesh-gaur-6b5655276/"><img width="35px" alt="Linkedln" title="Linkedln" src="logo/icons8-linkedin-48.png"/></a>
+  <a href="https://www.linkedin.com/in/mahesh-gaur-6b5655276/"><img width="40px" alt="Linkedln" title="Linkedln" src="logo/icons8-linkedin-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/mahesh.gaur07/"><img width="35px" alt="Instagram" title="Instagram" src="logo/icons8-instagram-48.png"/></a>
+  <a href="https://www.instagram.com/mahesh.gaur07/"><img width="40px" alt="Instagram" title="Instagram" src="logo/icons8-instagram-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/MaheshG87173503"><img width="35px" alt="Twitter" title="Twitter" src="logo/icons8-twitter-logo-48.png"/></a>
+  <a href="https://twitter.com/MaheshG87173503"><img width="40px" alt="Twitter" title="Twitter" src="logo/icons8-twitter-logo-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
  
