@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahesh-gaur-6b5655276/"><img width="35px" alt="Linkedln" title="Linkedln" src="https://www.iconfinder.com/icons/2142574/circle_colored_gradient_linkedin_media_social_social_media_icon"/></a>
+  <a href="https://www.linkedin.com/in/mahesh-gaur-6b5655276/"><img width="35px" alt="Linkedln" title="Linkedln" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/mahesh.gaur07/"><img width="35px" alt="Instagram" title="Instagram" src="https://www.iconfinder.com/icons/2142569/circle_colored_gradient_instagram_media_social_social_media_icon"/></a>
+  <a href="https://www.instagram.com/mahesh.gaur07/"><img width="35px" alt="Instagram" title="Instagram" src="https://icons8.com/icon/nj0Uj45LGUYh/instagram"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/MaheshG87173503"><img width="35px" alt="Twitter" title="Twitter" src="https://www.iconfinder.com/icons/2142563/circle_colored_gradient_media_social_social_media_tumblr_icon"/></a>
+  <a href="https://twitter.com/MaheshG87173503"><img width="35px" alt="Twitter" title="Twitter" src="https://icons8.com/icon/119014/twitter"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
  
