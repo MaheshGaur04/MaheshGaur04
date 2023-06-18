@@ -32,4 +32,22 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/MaheshG87173503"><img width="40px" alt="Twitter" title="Twitter" src="logo/icons8-twitter-logo-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
- 
+
+<br>
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project"><img width="278" src="logo/project.jpg" alt="12_Mini_Projects"></a>
+    <a href="https://github.com/MaheshGaur04/Book_Mart"><img width="278" src="" alt="Book_Mart"></a>
+    <a href="https://github.com/MaheshGaur04/Quiz_Night"><img width="278" src="" alt="Quiz_Night"></a>
+    <a href="https://github.com/MaheshGaur04/Rock_paper_Scissor_Game"><img width="278" src="" alt="Rock_Paper_Scissor"></a>
+    <a href="https://github.com/MaheshGaur04/Calculator"><img width="278" src="logo/calculator.jpg" alt="2_Calculator"></a>
+    <a href="https://github.com/MaheshGaur04/Forum-and-login-system"><img width="278" src="" alt="iForum"></a>
+    <a href="https://github.com/MaheshGaur04/Crud"><img width="278" src="" alt="CRUD"></a>
+  </p>
+
+<a href="https://github.com/MaheshGaur04?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+</details>
