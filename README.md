@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/MaheshGaur04">
-    <img src="logo/Mahesh.jpeg" width="60" height="40" alt="Mahesh Gaur" /></a>
+    <img src="logo/micon.jpg" alt="Mahesh Gaur" /></a>
 </p>
 
 
